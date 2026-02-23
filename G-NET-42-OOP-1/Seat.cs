@@ -9,8 +9,4 @@
 		this.number = number;
 	}
 
-	public void Print()
-	{
-		Console.WriteLine(number);
-	}
 }
